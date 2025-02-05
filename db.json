@@ -1,102 +1,110 @@
 {
-  "category" : [
-  {
-    "mens_wear": [
+  "data": [
     {
       "title": "Men's Slim Fit Blazer",
       "image": "https://example.com/images/mens-blazer.jpg",
       "price": 79.99,
+      "category": "mens wear",
       "rating": 4.5
     },
     {
       "title": "Men's Denim Jacket",
       "image": "https://example.com/images/mens-denim-jacket.jpg",
       "price": 59.99,
+      "category": "mens wear",
       "rating": 4.3
     },
     {
       "title": "Men's Chinos Pants",
       "image": "https://example.com/images/mens-chinos.jpg",
       "price": 44.99,
+      "category": "mens wear",
       "rating": 4.4
     },
     {
       "title": "Men's Polo Shirt",
       "image": "https://example.com/images/mens-polo-shirt.jpg",
       "price": 29.99,
+      "category": "mens wear",
       "rating": 4.6
     },
     {
       "title": "Men's Casual Sneakers",
       "image": "https://example.com/images/mens-sneakers.jpg",
       "price": 49.99,
+      "category": "mens wear",
       "rating": 4.7
-    }
-  ],
-  "womens_wear": [
+    },
+
     {
       "title": "Women's Floral Dress",
       "image": "https://example.com/images/womens-floral-dress.jpg",
       "price": 49.99,
+      "category": "womens wear",
       "rating": 4.7
     },
     {
       "title": "Women's High-Waist Jeans",
       "image": "https://example.com/images/womens-highwaist-jeans.jpg",
       "price": 39.99,
+      "category": "womens wear",
       "rating": 4.6
     },
     {
       "title": "Women's Sleeveless Top",
       "image": "https://example.com/images/womens-sleeveless-top.jpg",
       "price": 22.99,
+      "category": "womens wear",
       "rating": 4.5
     },
     {
       "title": "Women's Winter Coat",
       "image": "https://example.com/images/womens-winter-coat.jpg",
       "price": 89.99,
+      "category": "womens wear",
       "rating": 4.8
     },
     {
       "title": "Women's Sandals",
       "image": "https://example.com/images/womens-sandals.jpg",
       "price": 34.99,
+      "category": "womens wear",
       "rating": 4.6
-    }
-  ],
-  "kids_wear": [
+    },
     {
       "title": "Kids' Graphic T-Shirt",
       "image": "https://example.com/images/kids-graphic-tee.jpg",
       "price": 19.99,
+      "category": "kids wear",
       "rating": 4.5
     },
     {
       "title": "Kids' Jogger Pants",
       "image": "https://example.com/images/kids-jogger-pants.jpg",
       "price": 24.99,
+      "category": "kids wear",
       "rating": 4.7
     },
     {
       "title": "Kids' Denim Overalls",
       "image": "https://example.com/images/kids-denim-overalls.jpg",
       "price": 34.99,
+      "category": "kids wear",
       "rating": 4.8
     },
     {
       "title": "Kids' Sneakers",
       "image": "https://example.com/images/kids-sneakers.jpg",
       "price": 29.99,
+      "category": "kids wear",
       "rating": 4.6
     },
     {
       "title": "Kids' Hooded Jacket",
       "image": "https://example.com/images/kids-hooded-jacket.jpg",
       "price": 39.99,
+      "category": "kids wear",
       "rating": 4.7
     }
   ]
-}
-]
 }
